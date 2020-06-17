@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/is-not-integer)
+
 # Is-not-integer
 
 Checks if something is **NOT** a integer
