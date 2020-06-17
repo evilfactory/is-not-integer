@@ -1,0 +1,17 @@
+{
+  "name": "is-not-integer",
+  "version": "1.0.0",
+  "description": "Returns false if something is a number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "integer",
+    "check",
+    "not",
+    "is-integer"
+  ],
+  "author": "EvilFactory",
+  "license": "GNU"
+}
