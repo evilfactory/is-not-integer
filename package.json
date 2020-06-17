@@ -10,8 +10,14 @@
     "integer",
     "check",
     "not",
-    "is-integer"
+    "is-integer",
+    "is-not-integer"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilfactory/is-not-integer.git"
+  },
+  "homepage": "https://github.com/evilfactory/is-not-integer#readme",
   "author": "EvilFactory",
   "license": "GNU"
 }
