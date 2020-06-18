@@ -1,7 +1,7 @@
 {
   "name": "is-not-integer",
-  "version": "1.0.1",
-  "description": "Returns false if something is a number.",
+  "version": "1.0.2",
+  "description": "Returns false if something is a integer.",
   "main": "index.js",
   "scripts": {
     "test": "node ./test/test.js"
